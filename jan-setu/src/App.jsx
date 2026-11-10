@@ -323,13 +323,6 @@ export default function App() {
         )}
       </main>
 
-      <footer className="foot">
-        <div className="wrap">
-          <p>{t.footNote}</p>
-          <p>{t.footBuilt}</p>
-        </div>
-      </footer>
-
       {started && (
         <div className="dock">
           <div className="wrap">
