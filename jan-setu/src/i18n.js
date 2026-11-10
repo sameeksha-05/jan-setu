@@ -5,10 +5,10 @@ export const LANGS = [
   { code: 'hi', label: 'हिन्दी', speech: 'hi-IN' },
   { code: 'kn', label: 'ಕನ್ನಡ', speech: 'kn-IN' },
 ]
-
+ 
 export const T = {
   en: {
-    appName: 'Jan Setu',
+    appName: 'Yojana Mitra',
     tagline: 'Find the government schemes meant for you',
     langLabel: 'Language',
     skip: 'Skip to main content',
@@ -71,7 +71,7 @@ export const T = {
     print: 'Print',
     startOver: 'Start over',
     errors: {
-      micUnsupported: "Voice input isn't supported in this browser. Please type, or open Jan Setu in Chrome.",
+      micUnsupported: "Voice input isn't supported in this browser. Please type, or open Yojana Mitra in Chrome.",
       micDenied: 'Microphone access is blocked. Allow it in your browser settings, or type instead.',
       noSpeech: "We didn't hear anything. Tap the mic and try again.",
       micError: 'Voice input stopped working. Please type instead.',
@@ -82,9 +82,9 @@ export const T = {
     footNote: 'Demo data for the hackathon. Always confirm details on the official website before you apply.',
     footBuilt: "Built for Code for INNOVEX '26.",
   },
-
+ 
   hi: {
-    appName: 'जन सेतु',
+    appName: 'योजना मित्र',
     tagline: 'आपके लिए बनी सरकारी योजनाएँ खोजें',
     langLabel: 'भाषा',
     skip: 'मुख्य सामग्री पर जाएँ',
@@ -148,7 +148,7 @@ export const T = {
     print: 'प्रिंट',
     startOver: 'फिर से शुरू करें',
     errors: {
-      micUnsupported: 'इस ब्राउज़र में बोलकर लिखना उपलब्ध नहीं है। कृपया लिखिए, या जन सेतु को Chrome में खोलिए।',
+      micUnsupported: 'इस ब्राउज़र में बोलकर लिखना उपलब्ध नहीं है। कृपया लिखिए, या योजना मित्र को Chrome में खोलिए।',
       micDenied: 'माइक की अनुमति बंद है। ब्राउज़र सेटिंग में अनुमति दीजिए, या लिखिए।',
       noSpeech: 'कुछ सुनाई नहीं दिया। माइक दबाकर फिर से बोलिए।',
       micError: 'आवाज़ से लिखना रुक गया। कृपया लिखिए।',
@@ -159,9 +159,9 @@ export const T = {
     footNote: 'यह हैकाथॉन के लिए डेमो डेटा है। आवेदन से पहले आधिकारिक वेबसाइट पर जानकारी ज़रूर जाँच लें।',
     footBuilt: "Code for INNOVEX '26 के लिए बनाया गया।",
   },
-
+ 
   kn: {
-    appName: 'ಜನ ಸೇತು',
+    appName: 'ಯೋಜನಾ ಮಿತ್ರ',
     tagline: 'ನಿಮಗಾಗಿ ಇರುವ ಸರ್ಕಾರಿ ಯೋಜನೆಗಳನ್ನು ಹುಡುಕಿ',
     langLabel: 'ಭಾಷೆ',
     skip: 'ಮುಖ್ಯ ವಿಷಯಕ್ಕೆ ಹೋಗಿ',
@@ -225,7 +225,7 @@ export const T = {
     print: 'ಮುದ್ರಿಸಿ',
     startOver: 'ಮತ್ತೆ ಆರಂಭಿಸಿ',
     errors: {
-      micUnsupported: 'ಈ ಬ್ರೌಸರ್‌ನಲ್ಲಿ ಧ್ವನಿ ಇನ್‌ಪುಟ್ ಲಭ್ಯವಿಲ್ಲ. ದಯವಿಟ್ಟು ಬರೆಯಿರಿ, ಅಥವಾ ಜನ ಸೇತುವನ್ನು Chrome ನಲ್ಲಿ ತೆರೆಯಿರಿ.',
+      micUnsupported: 'ಈ ಬ್ರೌಸರ್‌ನಲ್ಲಿ ಧ್ವನಿ ಇನ್‌ಪುಟ್ ಲಭ್ಯವಿಲ್ಲ. ದಯವಿಟ್ಟು ಬರೆಯಿರಿ, ಅಥವಾ ಯೋಜನಾ ಮಿತ್ರವನ್ನು Chrome ನಲ್ಲಿ ತೆರೆಯಿರಿ.',
       micDenied: 'ಮೈಕ್ ಅನುಮತಿ ನಿರ್ಬಂಧಿತವಾಗಿದೆ. ಬ್ರೌಸರ್ ಸೆಟ್ಟಿಂಗ್‌ನಲ್ಲಿ ಅನುಮತಿಸಿ, ಅಥವಾ ಬರೆಯಿರಿ.',
       noSpeech: 'ಏನೂ ಕೇಳಿಸಲಿಲ್ಲ. ಮೈಕ್ ಒತ್ತಿ ಮತ್ತೆ ಮಾತನಾಡಿ.',
       micError: 'ಧ್ವನಿ ಇನ್‌ಪುಟ್ ನಿಂತುಹೋಯಿತು. ದಯವಿಟ್ಟು ಬರೆಯಿರಿ.',
